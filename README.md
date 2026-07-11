@@ -30,7 +30,7 @@ snake-game/
 │── README.md
 How to Run
 Clone the repository.
-git clone https://github.com/your-username/python-snake-game.git
+git clone https://github.com/DevalK22/snake_game.git
 Navigate to the project folder.
 cd python-snake-game
 Run the game.
