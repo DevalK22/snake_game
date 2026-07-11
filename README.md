@@ -51,7 +51,7 @@ git clone https://github.com/DevalK22/snake_game.git
 2. Navigate to the project folder.
 
 ```bash
-cd python-snake-game
+cd snake_game
 ```
 
 3. Run the game.
